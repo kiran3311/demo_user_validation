@@ -1,0 +1,48 @@
+
+
+h3{
+  margin-left: 38%;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+
+
+
+
+
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button{
+  cursor: pointer;
+}
+
+.div{
+  margin-bottom: 20px;
+  margin-left: 30%;
+  
+}
+
+label{
+  padding-right: 30px;
+  display: inline-block;
+      width: 150px;
+      text-align: right;
+}
+.btn-div{
+  padding: 15px;
+}
+
+
+.btn{
+
+ margin-bottom: 15px;
+margin-left: 43%;
+}
+
+.App{
+  background-color: aquamarine;
+}
